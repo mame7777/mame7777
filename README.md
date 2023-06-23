@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @mame7777
 - 👀 I’m interested in ... Network, machine learning, etc...
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Network
 - 📫 My blog is ... https://mame77.com
+- 🌍 I'm a member of [NAFT](https://naft.space).
+  - 🚀 I'm the project manager of NAFT Rocket Development.
+  - 🚀 NAFT publish our simulator of rocket's orbit on [Github](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation).
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mame7777">
 
-<!---
-mame7777/mame7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
