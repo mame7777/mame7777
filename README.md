@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Python, Network
 - 📫 My blog is ... https://mame77.com
 - 🌍 I'm a member of [NAFT](https://naft.space).
-  - 🚀 I'm the project manager of NAFT Rocket Development.
+  - 🚀 I was the project manager of NAFT Rocket Development.
   - 🚀 NAFT publish our simulator of rocket's orbit on [Github](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation).
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mame7777">
