@@ -6,6 +6,6 @@
   - 🚀 I was the project manager of NAFT Rocket Development.
   - 🚀 NAFT publish our simulator of rocket's orbit on [Github](https://github.com/NAFT-LinkSpace/NRD_aerodynamics_3Dsimulation).
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mame7777&theme=gruvbox">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mame7777&theme=onedark">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mame7777&rank=-?&theme=gruvbox)](https://github.com/mame7777/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mame7777&rank=-?&theme=onedark)](https://github.com/mame7777/github-profile-trophy)
