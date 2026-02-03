@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mame7777
-- 👀 I’m interested in ... Network, machine learning, etc...
-- 🌱 I’m currently learning ... Python, Network
+- 👀 I’m interested in ... HPC, IT Infrastructure, etc...
+- 🌱 I’m currently learning ... HPC, IT Infrastructure
 - 📫 My blog is ... https://mame77.com
 - 🌍 I'm a member of [NAFT](https://naft.space).
   - 🚀 I was the project manager of NAFT Rocket Development.
